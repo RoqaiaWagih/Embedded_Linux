@@ -7,6 +7,7 @@ Welcome to the Embedded linux course Brief. This course is designed to help you 
  
 
 **Course Name:** Embedded linux 
+
 **Course Duration:** Four month
 
 **Course Tools:**  ⚙️[Ubuntu Machine version 22.04](https://www.youtube.com/watch?v=rJ9ysibH768)  ⚙️[Wireshark](https://www.youtube.com/watch?v=xzCVrooqSZU)  ⚙️[VS CODE](https://code.visualstudio.com/download)
