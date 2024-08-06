@@ -102,4 +102,16 @@ ls /home/user
 ```
 
 This will output the contents of the `/home/user` directory.
+## In-session Tasks
+#### Slide Subtitle
+- 	Please write the following command:
+- 	g++ —version.
+- 	What is the output?
+- 	Add a new command to your system to print the process userlD.
+- 	Ex: > userid
+-  > output: UserlD = 11000
+
+![image](https://github.com/user-attachments/assets/fb987e72-b13c-4d61-aac7-3865be59fc00)
+
+![image](https://github.com/user-attachments/assets/46b581bb-8b42-46a2-adb4-bcad22c7e2ea)
 
