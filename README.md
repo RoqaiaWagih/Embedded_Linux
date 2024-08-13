@@ -1,8 +1,8 @@
 # Embedded_Linux
-![my progress](https://progress-bar.dev/20?title=running)
 
+**Progress:** 20% ▓▓▓░░░░░░░░░░░░░░░░░
 
-Welcome to the Embedded linux course Brief. This course is designed to help you master the art of Embedded Linux.
+Welcome to the Embedded Linux course Brief. This course is designed to help you master the art of Embedded Linux.
 ## Course Details
  
 
