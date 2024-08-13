@@ -23,8 +23,10 @@ This course gives engineers a comprehensive study of the Embedded linux, focusin
 | ---------------------------- | ----------------------------------------------- |
 | Linux Fundamentals           |                                                 |
 | Tools Needed for this Course |  [Course Tools](Course_Tools)                                               |
-| Linux System Architecture    |  [Linux System Architecture](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)                                               |
-
+| Linux System Architecture    |  [Linux System Architecture](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md) |                     
+| System Call Interface        |  [System Call Interface](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
+| Process Management Stack     |  [Process Management Stack](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
+| Filesystem Stack             |  [Filesystem Stack](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
 
 ## References
 
