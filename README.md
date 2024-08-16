@@ -32,7 +32,7 @@ This course gives engineers a comprehensive study of the Embedded linux, focusin
 
 - [The C++ Workshop](https://www.packtpub.com/free-ebook/the-c-workshop/9781839216626)
 - [Introduction to Linux (LFS101)](https://trainingportal.linuxfoundation.org/courses/introduction-to-linux-lfs101)
-
+- [Linux Networking 101](chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/pages/pdf/web/viewer.html?file=https%3A%2F%2Fwww.actualtechmedia.com%2Fwp-content%2Fuploads%2F2017%2F12%2FCUMULUS-NETWORKS-Linux101.pdf)
 ## Special Thanks
 
 I would like to express my sincere gratitude to our instructor 
