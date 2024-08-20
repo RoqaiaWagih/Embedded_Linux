@@ -27,6 +27,11 @@ This course gives engineers a comprehensive study of the Embedded linux, focusin
 | System Call Interface        |  [System Call Interface](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
 | Process Management Stack     |  [Process Management Stack](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
 | Filesystem Stack             |  [Filesystem Stack](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Linux%20System%20Architecture.md)    |
+| Terminal & Shell Scripting             |  [Terminal & Shell Scripting](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Terminal%20%26%20Shell%20Scripting.md)    |
+| Networking             |  [Networking](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Networking.md)    |
+| Access Control & User Management            |  [Access Control & User Management](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Access%20Control%20&%20User%20Management.md)    |
+| Monitoring Linux             |  [Monitoring Linux](https://github.com/RoqaiaWagih/Embedded_Linux/blob/main/Monitoring%20Linux.md)    |
+
 
 ## References
 
