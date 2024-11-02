@@ -15,8 +15,45 @@ Welcome to the Embedded Linux course Brief. This course is designed to help you 
 
 ### Course Objectives
 
-This course gives engineers a comprehensive study of the Embedded linux, focusing on writing efficient, maintainable, and portable code for Embedded Systems.
+This repository serves as a structured documentation of a student's practical work and projects completed during an advanced Linux and Embedded Systems course. The course covers five major domains: Linux Kernel, Embedded Linux, Yocto, C++ Programming, and Device Drivers. Each domain is represented through hands-on projects, code samples, and detailed explanations, demonstrating the student's proficiency in essential concepts, tools, and techniques for embedded systems and Linux development.
 
+Here’s a GitHub repository objective for documenting a student’s work throughout this comprehensive course:
+
+---
+
+### Course Modules Overview
+
+1. **Linux Kernel Development**
+   - Explored core Linux kernel architecture and navigated user and kernel spaces.
+   - Worked with kernel stacks, process management, glibc, filesystems, and networking.
+   - Executed common kernel tasks, optimized performance, and managed services with access control.
+   - Focused on memory management to enhance system efficiency.
+
+2. **Embedded Linux**
+   - Configured essential components of embedded Linux, including bootloaders and toolchains.
+   - Customized kernel builds and designed efficient root filesystems for various embedded applications.
+
+3. **Yocto Project**
+   - Documented the Yocto project stages, covering pre-development, development, and post-development.
+   - Configured embedded Linux environments to streamline development workflows.
+
+4. **C++ Programming**
+   - Demonstrated mastery of C++ fundamentals, template programming, and the Standard Template Library (STL).
+   - Applied software design principles, object-oriented analysis, and design patterns.
+   - Integrated concurrency techniques and system programming skills using Google Test and CMake.
+   - Developed and debugged C++ applications for embedded Linux environments.
+
+5. **Device Driver Development**
+   - Enhanced system functionality with custom device drivers, utilizing Linux kernel modules and core helpers.
+   - Developed drivers for character devices, SPI, block devices, and explored the latest LCD (IL19486) driver techniques.
+
+### Purpose and Usage
+
+This repository serves as both a learning archive and a portfolio, showcasing the student's technical growth and accomplishments across a range of advanced topics in Linux and embedded systems development. Each module includes detailed documentation, code examples, and insights into challenges and solutions encountered during the course. This repository is intended to be a valuable resource for fellow developers, instructors, and prospective employers interested in the student’s expertise and hands-on experience with Linux-based systems. 
+
+--- 
+
+This structure should give a clear and organized overview of the student's learning journey through the course.
 ## Table of Contents
 
 | Topic                        | Code File Link                                  |
