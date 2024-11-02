@@ -1,6 +1,6 @@
 # Embedded_Linux
  
-**Progress:** 20% ▓▓▓░░░░░░░░░░░░░░░░░
+**Progress:** 60% ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░
 
 Welcome to the Embedded Linux course Brief. This course is designed to help you master the art of Embedded Linux.
 ## Course Details
